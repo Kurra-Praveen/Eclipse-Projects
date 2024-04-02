@@ -1,0 +1,4 @@
+login://android.widget.Button[@content-desc="Login"]/android.widget.TextView[1]
+email://android.widget.EditText[@content-desc="input-email"]
+password://android.widget.EditText[@content-desc="input-password"]
+submit://android.view.ViewGroup[@content-desc="button-LOGIN"]/android.view.ViewGroup

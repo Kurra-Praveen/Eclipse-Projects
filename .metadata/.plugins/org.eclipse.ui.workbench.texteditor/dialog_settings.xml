@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="I want to write a step with"/>
+		<list key="findhistory">
+			<item value="I want to write a step with"/>
+			<item value="I verify the"/>
+			<item value="I check for the"/>
+			<item value="System.out.println()"/>
+			<item value="throw new io.cucumber.java.PendingException();"/>
+			<item value="FlipKartHomePage"/>
+			<item value="test."/>
+			<item value="test"/>
+			<item value="loginPage"/>
+			<item value="loginPage.g"/>
+			<item value="package runner;"/>
+			<item value="&lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:schemaLocation=&quot;http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt;"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="System.out.println();"/>
+			<item value="System.out.println()"/>
+			<item value="SamplePage"/>
+			<item value="//test."/>
+			<item value="//test"/>
+			<item value="WdIoLoginPage"/>
+			<item value="webUtils.g"/>
+			<item value="WdIoLoginPage.g"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1117"/>
+		<item key="DIALOG_Y_ORIGIN" value="310"/>
+		<item key="DIALOG_WIDTH" value="511"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
